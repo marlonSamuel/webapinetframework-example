@@ -100,3 +100,8 @@ C:\Users\senpai\Desktop\PRACTICAS\C#\WEB API\WEBAPI\obj\Debug\WEBAPI.pdb
 C:\Users\senpai\Desktop\PRACTICAS\C#\WEB API\WEBAPI\bin\System.Web.Cors.dll
 C:\Users\senpai\Desktop\PRACTICAS\C#\WEB API\WEBAPI\bin\System.Web.Http.Cors.dll
 C:\Users\senpai\Desktop\PRACTICAS\C#\WEB API\WEBAPI\bin\System.Web.Http.Cors.xml
+C:\Users\senpai\Desktop\PRACTICAS\C#\WEB API\WEBAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\WEB API\WEBAPI\bin\Microsoft.Practices.Unity.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\WEB API\WEBAPI\bin\Unity.WebApi.dll
+C:\Users\senpai\Desktop\PRACTICAS\C#\WEB API\WEBAPI\bin\Microsoft.Practices.Unity.xml
+C:\Users\senpai\Desktop\PRACTICAS\C#\WEB API\WEBAPI\bin\Microsoft.Practices.Unity.Configuration.xml

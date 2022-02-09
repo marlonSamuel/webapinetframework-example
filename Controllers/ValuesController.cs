@@ -12,7 +12,13 @@ namespace WEBAPI.Controllers
 {
     public class ValuesController : ApiController
     {
-        people _people = new people();
+        private readonly IPeople _people;
+
+        public ValuesController(IPeople people)
+        {
+            _people = people;
+        }
+
         // GET api/values
         public List<PeopleDto> Get()
         {

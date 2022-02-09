@@ -8,7 +8,17 @@ namespace WEBAPI.Models
     using System.Linq;
     using WEBAPI.Models.dtos;
 
-    public partial class people
+
+    public interface IPeople
+    {
+        List<PeopleDto> GetAll();
+        bool CreatePeople(PeopleDto model);
+        people Get(int id);
+        bool Update(int id, PeopleDto model);
+        bool Remove(int id);
+    }
+
+    public partial class people : IPeople
     {
         public int id { get; set; }
 
